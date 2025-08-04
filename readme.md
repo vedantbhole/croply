@@ -13,12 +13,12 @@ cd crop-recommendation-system
 #### macOS/Linux:
 ```bash
 python -m venv .venv 
-source venv/bin/activate   
+source .venv/bin/activate   
 ```    
 #### Windows: 
 ```bash
 python -m venv .venv 
-venv\Scripts\activate
+.venv\Scripts\activate
 ```
 ### 3. Install dependencies
 ```bash
